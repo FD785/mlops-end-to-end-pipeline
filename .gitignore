@@ -1,6 +1,17 @@
-venv/
+# Python
 __pycache__/
+*.pyc
+venv/
+
+# Data & Models
+data/
+exported_model/
 mlruns/
-models/
-.env
+mlflow.db
+
+# Docker
+*.log
+
+# OS
 .DS_Store
+Thumbs.db
