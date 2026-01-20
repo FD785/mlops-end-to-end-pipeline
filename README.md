@@ -140,12 +140,10 @@ https://housing-api.yourdomain.com/predict
 
 ---
 
-## 🔹 Author
-
-FD (Fahad)
 
 ---
 
 ## 🔹 License
 
 MIT License
+
